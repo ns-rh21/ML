@@ -1,5 +1,7 @@
 Machine Learning
-note1: working with https://github.dev/
+note1:
+working with https://github.dev/
+
  You could not work with *.ipynb in Github. so editing it with https://github.dev/.
  if your computer can not find Kernel you should write this command im anaconda cmd: 
  jupyter notebook --no-browser --NotebookApp.allow_origin='*'
